@@ -8,7 +8,6 @@ Feature :
 - Report
 - Profile Settings
 
-
-[a link](https://play.google.com/store/apps/details?id=com.rn_store_manager)
+[play store link](https://play.google.com/store/apps/details?id=com.rn_store_manager)
 
 
