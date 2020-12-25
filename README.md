@@ -7,3 +7,8 @@ Feature :
 - Chat Real Times
 - Report
 - Profile Settings
+
+
+[a link](https://play.google.com/store/apps/details?id=com.rn_store_manager)
+
+
